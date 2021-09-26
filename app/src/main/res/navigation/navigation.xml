@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/nav_home">
+
+
+    <fragment android:id="@+id/nav_home"
+        android:name="com.dewisri.smartfarming.view.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment android:id="@+id/nav_deals"
+        android:name="com.dewisri.smartfarming.view.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard"/>
+
+
+    <fragment android:id="@+id/nav_finance"
+        android:name="com.dewisri.smartfarming.view.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications"/>
+
+    <fragment android:id="@+id/nav_profile"
+        android:label="Profile"
+        android:name="com.dewisri.smartfarming.view.ui.notifications.NotificationsFragment"
+
+        tools:layout="@layout/fragment_notifications"/>
+
+</navigation>

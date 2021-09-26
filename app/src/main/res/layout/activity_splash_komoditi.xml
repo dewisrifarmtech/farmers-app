@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/purple_700" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/constraintLayout" android:layout_width="254dp" android:layout_height="0dp" android:layout_marginTop="50dp" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/appCompatImageView"
+                android:layout_width="253dp"
+                android:layout_height="321dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/padi" />
+
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="111dp" android:layout_height="202dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="@+id/appCompatImageView" app:srcCompat="@color/transparent"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="24sp" android:textStyle="bold" android:textColor="@android:color/white" android:id="@+id/tvLabelTittle" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:text="Mulai bertani sekarang!"  android:textAlignment="center" app:layout_constraintTop_toBottomOf="@+id/constraintLayout"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16sp" android:textColor="@android:color/white" android:gravity="center_horizontal" android:id="@+id/tvLabelInfo" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:text="Tambahkan komoditas tanaman di\10lahan milik Anda sekarang juga." android:textAlignment="center" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/tvLabelTittle"/>
+        <androidx.appcompat.widget.AppCompatButton android:textSize="18sp" android:textColor="@color/colorPrimary" android:id="@+id/btnStartNow" android:background="@drawable/bg_rounded" android:layout_width="250dp" android:layout_height="56dp" android:layout_marginTop="70dp" android:text="Mulai Sekarang" android:textAllCaps="false"  app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/tvLabelInfo"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16sp" android:textColor="@android:color/white" android:id="@+id/tvSkip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:layout_marginBottom="30dp" android:text="Nanti" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/btnStartNow"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

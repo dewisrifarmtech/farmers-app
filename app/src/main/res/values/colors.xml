@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#0FFFFF</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#12CD7D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#1AB128</color>
+    <color name="colorPrimaryDark">#1AB128</color>
+    <color name="colorAccent">#06B8A7</color>
+    <color name="colorText">#ee0000</color>
+    <color name="colorPurple">#4D3087</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGray">#828186</color>
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#009688</color>
+    <color name="gradient_end_color">#18a3fe</color>
+    <color name="green_dark">#0d6e6a</color>
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <color name="permission_granted">#2DF2A4</color>
+    <color name="permission_denied">#F22D24</color>
+    <color name="permission_unknown">#F2AD24</color>
+    <color name="gray">#505050</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="bottomNavigationTextColor">#B2B2B2</color>
+    <color name="bottomNavigationTintColor">#B2B2B2</color>
+    <color name="bottomNavigationSelectedColor">#FC4926</color>
+    <color name="statusBarColor">#000</color>
+    <color name="whiteBodyColor">#FCFCFC</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="primaryTextColor">#019AE8</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="frutorial_title">#4c4c4c</color>
+
+    <color name="dashboard_subtitle">#B7B7CC</color>
+
+    <!--colors for light mode-->
+    <color name="contentBodyColor">#FCFCFC</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="bottomNavigationBackground">#F7F7F7</color>
+
+
+
+    <!--    color items-->
+    <color name="color1">#F1755B</color>
+    <color name="color2">#5CB187</color>
+    <color name="color3">#B05777</color>
+    <color name="color4">#EEBE5C</color>
+    <color name="color5">#8778E9</color>
+    <color name="back_courses">#f8fafb</color>
+    <color name="miniTitleColor">#6F6A6A</color>
+
+    <color name="contentStatusBar">#f8cbb3</color>
+
+    <!--gradient colors-->
+    <color name="gradientOrange">#FF416C</color>
+    <color name="gradientViolet">#8A52E9</color>
+    <color name="gradientLightYellow">#FFA72F</color>
+    <color name="gradientLightOrange">#FF641A</color>
+    <color name="gradientLightYellow2">#FFC92B</color>
+    <color name="gradientLightOrange2">#FF7765</color>
+    <color name="gradientOrange3">#F7A23C</color>
+    <color name="gradientLightBlue">#376DF6</color>
+    <color name="gradientLightGreen">#21E8AC</color>
+
+    <!--colors for nongradientversion-->
+    <color name="cardColorTeal">#09CD95</color>
+    <color name="cardColorOrange">#FF651B</color>
+    <color name="cardColorYellow">#FF991F</color>
+    <color name="cardColorViolet">#8F51E3</color>
+    <color name="cardColorRed">#F94172</color>
+    <!--    colors play game-->
+    <color name="black_transparent">#CC003366</color>
+
+    <color name="red">#D32F2F</color>
+    <color name="grey">#CFCFCF</color>
+    <color name="orange">#FE940D</color>
+    <color name="green">#1AB128</color>
+    <color name="dark_blue">#5d3369</color>
+
+    <color name="grey_light">#59CFCFCF</color>
+    <color name="red_light">#33D32F2F</color>
+
+    <color name="nav_bar_color">#33CFCFCF</color>
+
+    <color name="option1">#503FEF</color>
+    <color name="option2">#A919DD</color>
+    <color name="option3">#E34B4A</color>
+    <color name="option4">#FF8033</color>
+
+    <color name="colorPrimaryText">@android:color/white</color>
+</resources>

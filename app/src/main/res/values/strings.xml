@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dewi Sri</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="noconnection">Oooppss!!! Tidak ada Koneksi Internet</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted_feedback">GRANTED</string>
+    <string name="permission_denied_feedback">DENIED</string>
+    <string name="permission_permanently_denied_feedback">PERMANENTLY DENIED</string>
+    <string name="permission_unknown_feedback">UNKNOWN</string>
+    <string name="all_permissions_denied_feedback">All those permissions are needed for doing some magic</string>
+    <string name="camera_permission_denied_feedback">Camera permission is needed for doing some magic</string>
+    <string name="contacts_permission_denied_feedback">Contacts permission is needed for doing some magic</string>
+    <string name="audio_permission_denied_dialog_title">Audio permission request</string>
+    <string name="audio_permission_denied_dialog_feedback">Audio recording will not be available until you accept the permission request</string>
+    <string name="permission_rationale_title">We need this permission</string>
+    <string name="permission_rationale_message">This permission is needed for doing some fancy stuff so please, allow it!</string>
+    <string name="permission_rationale_settings_button_text">SETTINGS</string>
+    <string name="create_account">Create Account</string>
+    <string name="email_address">Email</string>
+    <string name="full_name">Nama</string>
+    <string name="sign_up">Daftar</string>
+    <string name="i_m_already_a_member">Sudah punya akun?</string>
+    <string name="sign_in">Login</string>
+    <string name="auth_failed">Oooppss!!! Login Gagal...</string>
+    <string name="minimum_password">Harap lengakpi password</string>
+    <string name="title_profile">Profile</string>
+    <string name="places">Jakarta</string>
+    <string name="date">Jumat, 30 juli 1999</string>
+    <string name="monitoring">Monitoring</string>
+    <string name="weather">Weather</string>
+    <string name="komoditas">Komoditas</string>
+    <string name="nama_kebun">Kebun bang mbe</string>
+    <string name="location_kebun">Jakarta</string>
+    <string name="sensor">Sensor</string>
+</resources>
