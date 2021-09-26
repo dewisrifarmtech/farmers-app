@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496187949452",
+    "project_id": "dewi-sri-fd5b6",
+    "storage_bucket": "dewi-sri-fd5b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496187949452:android:c6eff272534ac68a9596a9",
+        "android_client_info": {
+          "package_name": "com.dewisri.smartfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496187949452-g0fdgce4qebo322aledhhgm8uncmsgld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dewisri.smartfarming",
+            "certificate_hash": "379555d973e5485d9367acef8db343d76c7d9d7f"
+          }
+        },
+        {
+          "client_id": "496187949452-hl6el2kdv9tappgtc2l8k476h2l7hfvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPuRGGJ_QSKrGrF58NUaz1xtFr6Lo2THE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496187949452-hl6el2kdv9tappgtc2l8k476h2l7hfvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
